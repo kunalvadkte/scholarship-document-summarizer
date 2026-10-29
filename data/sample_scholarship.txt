@@ -1,0 +1,103 @@
+ABC Education Foundation Scholarship 2026
+==========================================
+
+[SAMPLE / DEMO DATA — FOR TESTING PURPOSES ONLY]
+
+About the Scholarship
+---------------------
+The ABC Education Foundation Scholarship 2026 is a merit-cum-means scholarship
+offered by the ABC Education Foundation to support undergraduate students from
+economically weaker sections of society. The scholarship aims to encourage
+academically talented students to pursue higher education without financial
+constraints.
+
+Eligibility Criteria
+--------------------
+Applicants must satisfy all of the following conditions to be eligible for
+this scholarship:
+
+1. The applicant must be currently pursuing an undergraduate degree programme
+   (B.Tech / B.E. / B.Sc. / B.Com / B.A.) from a recognised university or college.
+
+2. Applicants must have obtained a minimum of 75% marks in their most recent
+   qualifying examination. Applicants with CGPA-based grading must have
+   achieved a CGPA of 7.5 or above on a 10-point scale.
+
+3. The annual family income of the applicant must not exceed Rs. 4,00,000
+   (Rupees Four Lakhs only) per annum from all sources.
+
+4. Applicants belonging to SC, ST, OBC, and EWS categories are especially
+   encouraged to apply.
+
+5. Age: The applicant must be between 17 and 25 years of age as of the
+   date of application.
+
+Scholarship Benefits
+--------------------
+Selected students will receive a scholarship of Rs. 50,000 (Rupees Fifty
+Thousand only) per year. The scholarship amount will be credited directly to
+the student's bank account through NEFT/RTGS transfer.
+
+In addition to the financial award, selected scholars will receive:
+- Career counselling sessions
+- Access to the foundation's online learning resources
+- Certificate of merit from the ABC Education Foundation
+
+Required Documents
+------------------
+Applicants must submit the following documents at the time of application:
+
+1. Aadhaar Card (self-attested photocopy)
+2. Previous Year Marksheet (self-attested photocopy)
+3. Income Certificate issued by a competent authority
+4. Caste Certificate (applicable for SC/ST/OBC applicants)
+5. Bonafide Certificate from the current institution
+6. Bank Account Details (cancelled cheque or first page of passbook)
+7. Passport Photograph (recent, coloured, white background)
+8. Domicile Certificate
+9. College ID Card
+
+All documents must be uploaded in PDF or JPEG format, with each file not
+exceeding 2 MB in size.
+
+Application Process
+-------------------
+Eligible students must apply online through the official application portal
+of the ABC Education Foundation at www.abceducationfoundation.example.org.
+
+Steps to apply:
+1. Visit the official website and click on "Apply for Scholarship 2026".
+2. Register using your email address and mobile number.
+3. Complete the online application form with accurate personal and academic details.
+4. Upload all required documents as specified above.
+5. Submit the application before the last date.
+
+Applicants are advised to keep a printed copy of the submitted application form
+for future reference.
+
+Important Dates
+---------------
+Opening of Online Applications  : 1 July 2026
+Last Date for Application        : 30 September 2026
+Declaration of Selected Scholars : 15 November 2026
+
+Selection Process
+-----------------
+Shortlisted candidates will be selected based on academic merit and financial
+need. The selection committee may conduct a telephonic or online interview for
+final selection. The decision of the ABC Education Foundation will be final
+and binding.
+
+Contact Information
+-------------------
+ABC Education Foundation
+123, Education Lane, Knowledge Park
+New Delhi - 110001
+
+Email    : scholarships@abceducationfoundation.example.org
+Phone    : 011-XXXX-XXXX
+Website  : www.abceducationfoundation.example.org
+
+Note: This is a SAMPLE/FICTIONAL document created for testing the
+Scholarship Document Summarizer NLP application. All names, organisations,
+amounts, and details are fictional and created solely for demonstration.
